@@ -1,6 +1,6 @@
 cask "fastscancleaner" do
-  version "0.2.0"
-  sha256 "14e061b06afb4aef6472e682481a7245247678717bb276522956da9c7363ddf5"
+  version "0.3.0"
+  sha256 "0f1cce1de4e3fd955c2c7dbc9a71913b09d30c5c2dec223dc8785e4e9f8e7bf6"
 
   url "https://github.com/Benny93/fast-scan-cleaner/releases/download/v#{version}/FastScanCleaner_#{version}_aarch64.dmg"
   name "FastScanCleaner"
